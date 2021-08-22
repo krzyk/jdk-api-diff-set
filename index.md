@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/krzyk/jdk-api-diff-set/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page provides a simple diffs between APIs available in various JDK versions since version 8.
+Pages with diffs are generated using https://github.com/AdoptOpenJDK/jdk-api-diff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Diffs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Versions with available LTSes
 
-```markdown
-Syntax highlighted code block
+### [JDK 8 -> JDK 11]() (also [with java.awt and jdk.internal]())
+### [JDK 11 -> JDK 17]() (also [with java.awt and jdk.internal]())
 
-# Header 1
-## Header 2
-### Header 3
+## Other versions
+### [JDK 8 -> JDK 9]() (also [with java.awt and jdk.internal]())
+### [JDK 9 -> JDK 10]() (also [with java.awt and jdk.internal]())
+### [JDK 10 -> JDK 11]() (also [with java.awt and jdk.internal]())
+### [JDK 11 -> JDK 12]() (also [with java.awt and jdk.internal]())
+### [JDK 12 -> JDK 13]() (also [with java.awt and jdk.internal]())
+### [JDK 13 -> JDK 14]() (also [with java.awt and jdk.internal]())
+### [JDK 14 -> JDK 15]() (also [with java.awt and jdk.internal]())
+### [JDK 15 -> JDK 16]() (also [with java.awt and jdk.internal]())
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krzyk/jdk-api-diff-set/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Versions still in progress
+### [JDK 16 -> JDK 17]() (also [with java.awt and jdk.internal]())
+### [JDK 17 -> JDK 18]() (also [with java.awt and jdk.internal]())
